@@ -1,7 +1,6 @@
 from multiprocessing import Array
 from multiprocessing.dummy import Pool as ThreadPool
 import time
-import httplib2
 import paramiko
 from colorama import init
 from colorama import Fore, Back, Style
